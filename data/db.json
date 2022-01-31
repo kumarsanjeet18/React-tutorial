@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title":"My first Blog",
+            "body":"sdadadadaddada",
+            "author":"swapnil",
+            "id":1
+        },
+        {
+            "title":"My first Blog",
+            "body":"sdasdvdvdsdsvdadadaddada",
+            "author":"abhimanyu",
+            "id":2
+        }
+    ]
+}
